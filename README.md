@@ -126,7 +126,6 @@ http://localhost:3000
 
 ### 🎥 Demo Video
 https://youtu.be/R8ZofAxBtns
-c:\Users\vyshn\Videos\Screen Recordings\Demo.mp4.mp4
 
 ### 🎓 Submission Details
 
