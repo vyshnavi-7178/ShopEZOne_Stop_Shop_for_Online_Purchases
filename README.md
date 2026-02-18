@@ -91,6 +91,8 @@ ShopEZ/
 
 ### 1️⃣ Install Backend Dependencies
 
+```bash
+
 cd server
 npm install
 npm start
@@ -101,6 +103,7 @@ http://localhost:6001
 
 Open a new terminal:
 
+```bash
 cd client
 npm install
 npm start
@@ -125,6 +128,7 @@ http://localhost:3000
 https://youtu.be/R8ZofAxBtns
 
 ### 🎓 Submission Details
-Submitted By: Vyshnavi Chittemsetty
-College: Rise Krishna Sai Prakasam Group of Institutions
-Team ID: LTVIP2026TMIDS49157
+
+**Submitted By:** Vyshnavi Chittemsetty  
+**College:** Rise Krishna Sai Prakasam Group of Institutions  
+**Team ID:** LTVIP2026TMIDS49157
