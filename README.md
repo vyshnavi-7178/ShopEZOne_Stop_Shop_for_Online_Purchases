@@ -91,8 +91,6 @@ ShopEZ/
 
 ### 1️⃣ Install Backend Dependencies
 
-```bash
-
 cd server
 npm install
 npm start
