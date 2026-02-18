@@ -91,24 +91,24 @@ ShopEZ/
 
 ## ▶️ How to Run the Project
 
-### 1️⃣ Install Backend Dependencies
-
+1️⃣ Install Backend Dependencies
 ```bash
 cd server
 npm install
 npm start
 Backend runs on:
-
 http://localhost:6001
-2️⃣ Install Frontend Dependencies
-Open a new terminal:
 
+2️⃣ Install Frontend Dependencies
+
+Open a new terminal:
 cd client
 npm install
 npm start
-Frontend runs on:
 
+Frontend runs on:
 http://localhost:3000
+
 ⭐ Key Features
 Comprehensive Product Catalog
 
