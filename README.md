@@ -87,45 +87,44 @@ ShopEZ/
 └── README.md
 
 
----
-
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Install Backend Dependencies
 
-```bash
 cd server
 npm install
 npm start
 Backend runs on:
-
 http://localhost:6001
-2️⃣ Install Frontend Dependencies
+
+### 2️⃣ Install Frontend Dependencies
+
 Open a new terminal:
 
 cd client
 npm install
 npm start
 Frontend runs on:
-
 http://localhost:3000
-⭐ Key Features
-Comprehensive Product Catalog
 
-Smooth and Responsive UI
+### ⭐ Key Features
 
-Secure User Authentication
+1.Comprehensive Product Catalog
 
-Cart Management System
+2.Smooth and Responsive UI
 
-Order Tracking
+3.Secure User Authentication
 
-Admin Dashboard for Product and Order Management
+4.Cart Management System
 
-🎥 Demo Video
+5.Order Tracking
+
+6.Admin Dashboard for Product and Order Management
+
+### 🎥 Demo Video
 https://youtu.be/R8ZofAxBtns
 
-🎓 Submission Details
+### 🎓 Submission Details
 Submitted By: Vyshnavi Chittemsetty
 College: Rise Krishna Sai Prakasam Group of Institutions
 Team ID: LTVIP2026TMIDS49157
